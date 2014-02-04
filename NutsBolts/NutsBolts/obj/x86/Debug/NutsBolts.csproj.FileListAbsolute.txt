@@ -1,0 +1,8 @@
+C:\Users\Graham\AppData\Local\Temporary Projects\NutsBolts\bin\Debug\NutsBolts.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\NutsBolts\bin\Debug\NutsBolts.pdb
+C:\Users\Graham\AppData\Local\Temporary Projects\NutsBolts\obj\x86\Debug\NutsBolts.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\NutsBolts\obj\x86\Debug\NutsBolts.pdb
+C:\Users\Graham\Desktop\DailyProgrammer\NutsBolts\NutsBolts\obj\x86\Debug\NutsBolts.exe
+C:\Users\Graham\Desktop\DailyProgrammer\NutsBolts\NutsBolts\obj\x86\Debug\NutsBolts.pdb
+C:\Users\Graham\Desktop\DailyProgrammer\NutsBolts\NutsBolts\bin\Debug\NutsBolts.exe
+C:\Users\Graham\Desktop\DailyProgrammer\NutsBolts\NutsBolts\bin\Debug\NutsBolts.pdb

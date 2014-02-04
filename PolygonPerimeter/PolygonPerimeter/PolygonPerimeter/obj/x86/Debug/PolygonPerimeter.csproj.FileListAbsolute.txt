@@ -1,0 +1,6 @@
+C:\Users\Graham\AppData\Local\Temporary Projects\PolygonPerimeter\bin\Debug\PolygonPerimeter.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\PolygonPerimeter\bin\Debug\PolygonPerimeter.pdb
+C:\Users\Graham\AppData\Local\Temporary Projects\PolygonPerimeter\obj\x86\Debug\PolygonPerimeter.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\PolygonPerimeter\obj\x86\Debug\PolygonPerimeter.pdb
+C:\Users\Graham\Desktop\DailyProgrammer\PolygonPerimeter\PolygonPerimeter\PolygonPerimeter\obj\x86\Debug\PolygonPerimeter.exe
+C:\Users\Graham\Desktop\DailyProgrammer\PolygonPerimeter\PolygonPerimeter\PolygonPerimeter\obj\x86\Debug\PolygonPerimeter.pdb
