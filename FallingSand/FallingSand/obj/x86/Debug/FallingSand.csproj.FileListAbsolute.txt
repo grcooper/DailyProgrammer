@@ -1,0 +1,4 @@
+C:\Users\Graham\AppData\Local\Temporary Projects\FallingSand\bin\Debug\FallingSand.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\FallingSand\bin\Debug\FallingSand.pdb
+C:\Users\Graham\AppData\Local\Temporary Projects\FallingSand\obj\x86\Debug\FallingSand.exe
+C:\Users\Graham\AppData\Local\Temporary Projects\FallingSand\obj\x86\Debug\FallingSand.pdb
